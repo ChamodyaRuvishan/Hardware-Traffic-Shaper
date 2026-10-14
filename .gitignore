@@ -1,0 +1,16 @@
+*.jou
+*.log
+*.str
+.Xil/
+*/.Xil/
+*.cache/
+*/.cache/
+*.hw/
+*/.hw/
+*.ip_user_files/
+*/.ip_user_files/
+*.runs/
+*/.runs/
+*.sim/
+*/.sim/
+
